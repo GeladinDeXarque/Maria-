@@ -1,0 +1,52 @@
+                           ( Parafuro )
+ºSITUAÇÃOº
+
+- Após a chegada de Maria na cidade de Lagarto, a mesma começa uma
+busca / exploração por locais da cidade, como igrejas, praças e ruas 
+enquanto faz registros fotográficos com seu robô assistente.
+
+- Durante sua busca, Maria encontra e cunversa com NPC's na esperânça 
+de coletar informações sbre a aparição do robô e suas pissíveis intenções.
+
+- Enquanto conversa com um NPC, Maria é alertada pelo seu robô sobre uma
+movimentação estranhaem frente a igreja, envolvendo pessoas comuns e 
+pessoas vestidascom grandes roupas brancas com formato de vestidos,
+também envolvendo cantigas e instrumentos como tambores, sanfonas e triângolos.
+
+- Enquanto vão em direção à multidão, Iris(seu robô assistente) lhe esplica 
+sobre o que se trata aquela manifestação 
+
+- Após entender sobre e fazer seus registros, Maria busca uma forma de impedir 
+que o vilão consiga apagar aquela manifestação da história permanentemente.
+
+- Maria, juntamente com Iris, tomam a decisão de fazer mais uma viagem no 
+tempo para impedir que isso aconteça, mesmo sabendo dos riscos que podem
+ocorrer com eles por fazerem esses saltos temporais.
+
+
+•MODELAGENS•
+- entrada da cidade
+- igreja
+- praça 
+- casas
+- NPC's (10 mínimo)
+- parafusos (exemplares)
+- tambor, sanfona e triângulo 
+- máquina do tempo 
+
+•PROGRAMAÇÃO•
+- mecanismo de registro de imagem (print),  juntamente com sistema de armazenamento 
+- finalizar mecanismo de conversação
+- sistema de alerta (visualmente)
+
+•EFEITOS SONOROS•
+- som de passos e corrida
+- som de fotografia
+- sons para o robô 
+- som de alerta do robô 
+- sons de murmúrios 
+- cantiga dos parafusos 
+- sons dos instrumentos (coerente com a cantiga) 
+- uma voz para o robô 
+- som para a máquina do tempo 
+- sons de ambiente
