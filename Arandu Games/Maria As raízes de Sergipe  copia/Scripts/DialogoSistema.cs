@@ -25,6 +25,7 @@ public class DialogoSistema : MonoBehaviour
     [SerializeField]
     TextAnimation typeText;
 
+    [SerializeField]
     DialogoUI dialogoUI;
     
 
